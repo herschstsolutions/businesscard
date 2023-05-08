@@ -7,7 +7,7 @@ ORG:SmartTech IoT Solutions;
 TITLE:Smart Solutions
 EMAIL;type=INTERNET;type=WORK;type=pref:Hersch@SmartTechIoTSolutions.com
 TEL;type=WORK;type=VOICE:+1 (786) 671-5882
-item1.ADR;type=WORK;type=pref:;;500 NE 191st St.\Miami\, 09-01;;;33179;Unites States of America
+item1.ADR;type=WORK;type=pref:;;500 NE 191st St.\,\Miami-Florida\,;;;33179;United States of America
 item1.X-ABADR:sg
 item2.URL;type=pref:SmartTechIoTSolutions.com
 item2.X-ABLabel:_$!<HomePage>!$_
